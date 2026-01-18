@@ -1,0 +1,8 @@
+{
+  "name": "نظام حلم HELM",
+  "description": "A comprehensive legal office management system featuring professional invoicing, WhatsApp integration, automated backups, and AI-powered legal assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
